@@ -37,7 +37,7 @@ Now we get to the math content. This video will show you how to set up and solve
 Question:<br>
 In solving a proportion, if one numerator is zero, does the other numerator have to be zero for the statement to be true?<br>
 __ yes<br>
-__ no<br>
+_x no<br>
 __ sometimes<br>
 
 [comment]: <> (yes is correct)
@@ -64,7 +64,7 @@ Question:<br>
 What is another way to write 0.9999... (repeating decimal)?<br>
 __ 99 percent<br>
 __ You can't get an exact answer<br>
-__ 1<br>
+_x 1<br>
 __ almost 1<br>
  
 [comment]: <> (1 is correct)
