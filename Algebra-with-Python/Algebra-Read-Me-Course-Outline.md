@@ -75,7 +75,7 @@ __ almost 1<br>
 <hr>
 <p>
  
-## Week 2 - Solving for X<p>
+## Week 2 - Solving for X<p> (here)
 This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code. This first video will show you the essence of Algebra and then how Python code does the same task in a different way.<p>
  
 [video 4 - solving for x](https://www.youtube.com/embed/SAVDhkGst6Y)<p>
