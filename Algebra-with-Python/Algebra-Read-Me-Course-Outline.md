@@ -83,7 +83,7 @@ This unit will focus on how to solve for an unknown number (often referred to as
 Question:<br>
 In Python, what is the library you import to solve Algebra problems with variables?<br>
 __ symba<br>
-__ sympy<br>
+_x sympy<br>
 __ the sympsons<br>
 __ math<br>
  
@@ -118,7 +118,7 @@ If you import sympy and define x as a variable,  what would be the output from t
  <br>
 __ 3<br>
 __ 4<br>
-__ [4]<br>
+_x [4]<br>
 __ x = 4<br>
  
 [comment]: <> (4 with brackets is correct)
