@@ -75,7 +75,7 @@ __ almost 1<br>
 <hr>
 <p>
  
-## Week 2 - Solving for X<p> (here)
+## Week 2 - Solving for X<p> 
 This unit will focus on how to solve for an unknown number (often referred to as "x") using written Algebra and Python code. This first video will show you the essence of Algebra and then how Python code does the same task in a different way.<p>
  
 [video 4 - solving for x](https://www.youtube.com/embed/SAVDhkGst6Y)<p>
@@ -142,7 +142,7 @@ This unit will focus on converting decimals to fractions and percents. The first
 Question:<br>
 Which of the following correctly represents "three hundreths" as a decimal?<br>
 __ 0.3<br>
-__ 0.03<br>
+_x 0.03<br>
 __ 0.003<br>
 __ 100.3<br>
  
@@ -171,7 +171,7 @@ Which of the following languages can you not use in Google Colaboratory?<br>
 __ HTML<br>
 __ LaTex<br>
 __ English<br>
-__ Sanskrit<br>
+_x Sanskrit<br>
  
 [comment]: <> (Sanskrit is correct)
 
@@ -197,7 +197,7 @@ Question:<br>
 After defining a function in Python, indent each line of the function how many spaces?<br>
 __ 2<br>
 __ 3<br>
-__ 4<br>
+_x 4<br>
 __ 5<br>
 
 [comment]: <> (4 is the correct answer)
@@ -220,7 +220,7 @@ Question:<br>
 Which of the following would put a solid blue line on a graph?<br>
 __ plt.plot([0,0],[10,10],'b-')<br>
 __ plt.plot([0,0],[10,10],'bo')<br>
-__ plt.plot([0,10],[0,10],'b')<br>
+_x plt.plot([0,10],[0,10],'b')<br>
 __ plt.plot([10,10],[10,10],'b^')<br>
 
 [comment]: <> (third option is correct)
